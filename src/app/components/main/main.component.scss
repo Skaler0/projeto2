@@ -1,0 +1,21 @@
+.filmes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 50px 40px;
+  background: linear-gradient(180deg, rgba(33,61,171,1) 36%, rgba(1,7,56,1) 100%);
+  padding: 20px;
+  padding-top: 160px;
+ //responsividade
+  @media (max-width: 768px) { 
+    gap: 30px 20px; 
+    padding-top: 100px; 
+  }
+
+  @media (max-width: 480px) { 
+    flex-direction: column; 
+    gap: 20px 10px; 
+    padding: 10px; 
+    padding-top: 80px; 
+  }
+}

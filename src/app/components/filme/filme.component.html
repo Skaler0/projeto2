@@ -1,0 +1,9 @@
+<div class="filme-tamb">
+  <!-- Link para a página de detalhes do filme, usando o ID do filme -->
+  <a [routerLink]="['/detalhes', data.id]">
+    <!-- Imagem do filme com o atributo src dinâmico e alt com o título do filme -->
+    <img [src]="data.imagem" alt="{{data.titulo}}" class="filme-imagem">
+  </a>
+  <!-- Exibe o título do filme -->
+  <h4 class="filme-titulo">{{data.titulo}}</h4>
+</div>

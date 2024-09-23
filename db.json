@@ -1,0 +1,168 @@
+{
+  "filme": [
+    {
+      "id": 0,
+      "titulo": "Sonic",
+      "resumo": "O filme Sonic (2020) é uma adaptação cinematográfica do clássico personagem dos jogos criado pela Sega.",
+      "imagem": "https://musicart.xboxlive.com/7/354f5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "nota": "9",
+      "critica": "Em termos de entretenimento, Sonic: O Filme cumpre seu papel.",
+      "trailerUrl": "https://youtu.be/oS-E8FvWByY?si=I8p438Rc3JiVspYF"
+    },
+    {
+      "id": 1,
+      "titulo": "Coringa",
+      "resumo": "O filme Coringa (2019) narra a história de Arthur Fleck, um comediante fracassado.",
+      "imagem": "https://musicart.xboxlive.com/7/7f365100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "nota": "10",
+      "critica": "Coringa é uma obra impactante e perturbadora.",
+      "trailerUrl": "https://youtu.be/621pfj0EfIc?si=CyjS07mnrlraYwlC"
+    },
+    {
+      "id": 2,
+      "titulo": "Vingadores: Ultimato",
+      "resumo": "Vingadores: Ultimato (2019) é o encerramento épico da saga do MCU.",
+      "imagem": "https://br.web.img3.acsta.net/pictures/19/04/26/17/30/2428965.jpg",
+      "nota": "10",
+      "critica": "Um triunfo de entretenimento cinematográfico.",
+      "trailerUrl": "https://youtu.be/PgrmbRID0eY?si=pnSzzI4WeIFbBjPH"
+    },
+    {
+      "id": 3,
+      "titulo": "Interestelar",
+      "resumo": "Interestelar (2014) segue um grupo de astronautas em busca de um novo lar para a humanidade.",
+      "imagem": "https://musicart.xboxlive.com/7/b8841000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "nota": "7",
+      "critica": "Com uma história emocionante e efeitos visuais espetaculares.",
+      "trailerUrl": "https://youtu.be/hHBsKHVLAYc?si=CGMvvnHexkokMQRO"
+    },
+    {
+      "id": 4,
+      "titulo": "Matrix",
+      "resumo": "Matrix (1999) explora a natureza da realidade através da jornada de Neo.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c1/The_Matrix_Poster.jpg",
+      "nota": "10",
+      "critica": "Um marco na história do cinema de ficção científica.",
+      "trailerUrl": "https://youtu.be/2KnZac176Hs?si=Of6iTLG8B6E0fSi1"
+    },
+    {
+      "id": 5,
+      "titulo": "O Rei Leão",
+      "resumo": "O Rei Leão (1994) é um clássico da animação da Disney.",
+      "imagem": "https://lumiere-a.akamaihd.net/v1/images/lion_king_the_2019_la_ih_ptb_1000_x_1440_2baad78d.jpeg?region=0%2C0%2C1000%2C1440",
+      "nota": "10",
+      "critica": "Uma obra-prima da animação.",
+      "trailerUrl": "https://youtu.be/J57HnR6FPW0?si=g4vQwWSn9jybrcXX"
+    },
+    {
+      "id": 6,
+      "titulo": "Pantera Negra",
+      "resumo": "T'Challa retorna a Wakanda para assumir seu lugar como rei.",
+      "imagem": "https://img.elo7.com.br/product/zoom/1D1DA32/poster-marvel-pantera-negra-lo003-tamanho-90-x-0-cm-quadro-pantera-negra.jpg",
+      "nota": "9",
+      "critica": "Um filme inovador que destaca a representatividade.",
+      "trailerUrl": "https://www.youtube.com/watch?v=xjDjIWPwcPU"
+    },
+    {
+      "id": 7,
+      "titulo": "Inception",
+      "resumo": "Um ladrão que invade sonhos tenta realizar o roubo mais complexo de sua carreira.",
+      "imagem": "https://musicart.xboxlive.com/7/e63b1100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "nota": "7",
+      "critica": "Inception desafia a mente com sua trama intricada.",
+      "trailerUrl": "https://youtu.be/YoHD9XEInc0?si=y42KjmMAtHwRyJgQ"
+    },
+    {
+      "id": 8,
+      "titulo": "Gladiador",
+      "resumo": "Um general romano é traído e se torna gladiador.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/44/GladiadorPoster.jpg/230px-GladiadorPoster.jpg",
+      "nota": "8",
+      "critica": "Uma história poderosa de coragem e vingança.",
+      "trailerUrl": "https://youtu.be/P5ieIbInFpg?si=MOlOShls3pCJveFR"
+    },
+    {
+      "id": 9,
+      "titulo": "Clube da Luta",
+      "resumo": "Um homem insatisfeito cria um clube secreto de luta.",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi37SzuGrIxpbowXeL_YiTNi0h5YgogPjFPlx8itlAzdgrMt7lAAkUNln7H8gnG9B25eMqkzs_HjWEmNfc_gE1LrNgVjlPBrzZwArHI19mu4zOW8u54BFuW7vzuIevnIQQwA5spDg_yY8k/s1600/fight+club1.jpg",
+      "nota": "8",
+      "critica": "Uma reflexão provocante sobre o consumismo.",
+      "trailerUrl": "https://youtu.be/Fs0-4NLSO2Y?si=irXQjFVmcF5apmVL"
+    },
+    {
+      "id": 10,
+      "titulo": "Pulp Fiction",
+      "resumo": "Histórias entrelaçadas de violência e redenção.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/82/Pulp_Fiction_cover.jpg",
+      "nota": "7",
+      "critica": "Uma obra-prima do cinema.",
+      "trailerUrl": "https://youtu.be/tGpTpVyI_OQ?si=tJIehEmwpHViYsag"
+    },
+    {
+      "id": 11,
+      "titulo": "O Exorcista",
+      "resumo": "Uma jovem é possuída por uma entidade demoníaca.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a6/The_Exorcist_1973.jpg",
+      "nota": "7",
+      "critica": "Um dos filmes de terror mais icônicos.",
+      "trailerUrl": "https://youtu.be/96RCGOaNuCM?si=yJpc075C1l2JUalN"
+    },
+    {
+      "id": 12,
+      "titulo": "O Poderoso Chefão",
+      "resumo": "A saga da família Corleone.",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/93/20/20120876.jpg",
+      "nota": "8",
+      "critica": "Um dos melhores filmes já feitos.",
+      "trailerUrl": "https://youtu.be/SaHZHU-44XA?si=Im9h_e62A7AHrs94"
+    },
+    {
+      "id": 13,
+      "titulo": "Forrest Gump",
+      "resumo": "A história de um homem simples com um coração puro.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/c0/ForrestGumpPoster.jpg",
+      "nota": "9",
+      "critica": "Uma história emocionante que celebra a vida.",
+      "trailerUrl": "https://youtu.be/bLvqoHBptjg?si=qG-TWyHTJpxvfcd5"
+    },
+    {
+      "id": 14,
+      "titulo": "Titanic",
+      "resumo": "A trágica história de amor entre Jack e Rose.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/22/Titanic_poster.jpg",
+      "nota": "9",
+      "critica": "Uma obra-prima épica que combina romance e tragédia.",
+      "trailerUrl": "https://youtu.be/gv2tYALNwfU?si=prMNU5j-qQTzhdU3"
+    },
+
+    {
+      "id": 15,
+      "titulo": "O Iluminado",
+      "resumo": "Um escritor enlouquece enquanto cuida de um hotel isolado no inverno.",
+      "imagem": "https://br.web.img3.acsta.net/pictures/14/10/10/19/21/152595.jpg",
+      "nota": "7",
+      "critica": "O Iluminado é um dos filmes de terror mais assustadores e perturbadores já feitos.",
+      "trailerUrl": "https://youtu.be/dSQ3yN5yJ0g?si=AHUTA7oh9B-2Lerk"
+    },
+
+    {
+      "id": 16,
+      "titulo": "Os Incríveis",
+      "resumo": "Uma família de super-heróis tenta viver uma vida normal enquanto enfrenta um novo vilão.",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/98/38/20123472.jpg",
+      "nota": "9",
+      "critica": "Uma aventura divertida e emocionante sobre família e heroísmo.",
+      "trailerUrl": "https://youtu.be/iqKEnKRDkds?si=OCHPGcPqNQ9kr3TR"
+    },
+    {
+      "id": 17,
+      "titulo": "Toy Story",
+      "resumo": "Os brinquedos de Andy ganham vida quando ele não está por perto e vivem grandes aventuras.",
+      "imagem": "https://m.media-amazon.com/images/I/71N8Kav4AtL._AC_UF1000,1000_QL80_.jpg",
+      "nota": "8",
+      "critica": "Toy Story é um marco na animação digital e uma história comovente sobre amizade.",
+      "trailerUrl": "https://youtu.be/v-PjgYDrg70?si=NGaNv81jT2np7Cx5"
+    }
+  ]
+}

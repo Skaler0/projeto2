@@ -1,0 +1,13 @@
+<mat-toolbar class="toolbar">
+  <!-- Componente que exibe o título do site -->
+  <app-titulo></app-titulo>
+
+  <!-- Campo de pesquisa para título do filme -->
+  <mat-form-field class="input" appearance="outline">
+    <mat-label>Digite o título do filme</mat-label>
+    <input matInput [(ngModel)]="pesquisa" (keyup.enter)="procurar()">
+  </mat-form-field>
+
+  <!-- Botão de pesquisa -->
+  <button mat-raised-button color="primary" (click)="procurar()">Pesquisar</button>
+</mat-toolbar>

@@ -1,0 +1,28 @@
+<mat-card class="filme-card">
+  <mat-card-header>
+    <mat-card-title>{{ filmeinfo?.titulo }}</mat-card-title>
+    <mat-card-subtitle>Nota: {{ filmeinfo?.nota }}/10</mat-card-subtitle>
+  </mat-card-header>
+
+  <img mat-card-image [src]="filmeinfo?.imagem" alt="{{ filmeinfo?.titulo }}" class="filme-imagem" />
+
+  <mat-card-content>
+    <h2>Crítica:</h2>
+    <p>{{ filmeinfo?.critica }}</p>
+
+    <h2>Resumo:</h2>
+    <p>{{ filmeinfo?.resumo }}</p>
+  </mat-card-content>
+
+  <mat-card-actions>
+    <!-- Botão para ver o trailer no YouTube -->
+    <button mat-raised-button color="primary" (click)="verTrailer(filmeinfo?.trailerUrl)">
+      Ver Trailer
+    </button>
+    
+    <!-- Botão para voltar à página principal -->
+    <button mat-raised-button color="accent" (click)="voltar()">
+      Voltar
+    </button>
+  </mat-card-actions>
+</mat-card>

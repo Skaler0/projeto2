@@ -1,0 +1,6 @@
+<div class="filmes">
+  <!-- Itera sobre a lista filmeinfo e cria um componente app-filme para cada filme -->
+  <app-filme *ngFor="let filme of filmeinfo" 
+             [data]="filme"> <!-- Passa os dados de cada filme para o componente app-filme -->
+  </app-filme>
+</div>
