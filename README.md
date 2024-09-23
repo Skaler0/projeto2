@@ -6,6 +6,8 @@ depois executar o localhost digitando o código no terminal ng serve
 detalhe ambos os códigos so fucionarão se o programa estiver aberto na pasta do projeto
 Caso não esteja pode ser aberto a partir do comando cd "nome da pasta"
 depois basta ir na barra de pesquisa do seu navegador e Pesquisar localhost:4200
+nota: é importante que o npm esteja instalado para o funcionamento da aplicação
+caso na esteja instale digitando no terminal: npm install.
 
 Tecnologias utilizadas: HTML, CSS, typescript, angular 13, http, npm, node.js.
 
